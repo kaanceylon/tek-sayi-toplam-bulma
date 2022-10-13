@@ -1,0 +1,1 @@
+# tek-sayi-toplam-bulma
